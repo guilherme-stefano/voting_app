@@ -1,3 +1,5 @@
+voting_app First Example from book Fullstack React: The Complete Guide to ReactJS and Friends 
+
 ### Running the app
 
 1. Ensure you have `npm` installed.
