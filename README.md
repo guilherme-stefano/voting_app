@@ -1,4 +1,4 @@
-voting_app First Example from book Fullstack React: The Complete Guide to ReactJS and Friends 
+voting_app First Example from book Fullstack React
 
 ### Running the app
 
